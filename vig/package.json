@@ -1,0 +1,12 @@
+{
+  "name": "vig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vig.js",
+  "scripts": {
+    "start": "node vig.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
